@@ -25,4 +25,4 @@ Contributions are welcome! Feel free to submit a pull request or open an issue f
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-If you have any questions or need support, please contact us at support@example.com.
+If you have any questions or need support, please contact us at subramanyambattari@gmail.com.
